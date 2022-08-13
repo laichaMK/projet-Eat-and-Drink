@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "img": "../images/product_2.3.jpg",
+      "id": "00",
+      "title": "chicken burger",
+      "price": 3000
+    },
+    {
+      "img": "../images/product_01.1.jpg",
+      "id": "00",
+      "title": "royal cheese burger",
+      "price": 1500
+    }, 
+    {
+      "img": "../images/product_01.3.jpg",
+      "id": "00",
+      "title": "classic hamburger",
+      "price": 1500
+    }, 
+    {
+      "img": "../images/product_01.jpg",
+      "id": "00",
+      "title": "classic hamburger",
+      "price": 1500
+    }, 
+    {
+      "img": "../images/product_2.3.jpg",
+      "id": "00",
+      "title": "chicken burger",
+      "price": 3000
+    },
+    {
+      "img": "../images/product_01.1.jpg",
+      "id": "00",
+      "title": "royal cheese burger",
+      "price": 1500
+    }, 
+    {
+      "img": "../images/product_01.3.jpg",
+      "id": "00",
+      "title": "classic hamburger",
+      "price": 1500
+    }, 
+    {
+      "img": "../images/product_01.jpg",
+      "id": "00",
+      "title": "classic hamburger",
+      "price": 1500
+    }, 
+    {
+      "img": "../images/product_2.3.jpg",
+      "id": "00",
+      "title": "chicken burger",
+      "price": 3000
+    },
+    {
+      "img": "../images/product_01.1.jpg",
+      "id": "00",
+      "title": "royal cheese burger",
+      "price": 1500
+    }, 
+    {
+      "img": "../images/product_01.3.jpg",
+      "id": "00",
+      "title": "classic hamburger",
+      "price": 1500
+    }, 
+    {
+      "img": "../images/product_01.jpg",
+      "id": "00",
+      "title": "classic hamburger",
+      "price": 1500
+    }
+  ]
+}
